@@ -1,2 +1,7 @@
-тут будет логика обновлений мода
-разраб ленивая жепа
+{
+  "version": "1.0.0",
+  "release": 3,
+  "url": "https://github.com/nerolocker/whitemusic/releases/download/Release/white-music.tar.gz",
+  "arch": "x86_64",
+  "description": "White Music — Yandex Music mod with clean UI"
+}
